@@ -1,0 +1,22 @@
+
+# Data manipulation and analysis
+pandas==1.3.3
+numpy==1.21.2
+
+# Data visualization
+matplotlib==3.4.3
+seaborn==0.11.2
+
+# Machine learning and statistics
+scikit-learn==0.24.2
+statsmodels==0.12.2
+
+# Jupyter notebook for running the project
+jupyter==1.0.0
+
+# Additional utilities
+scipy==1.7.1
+plotly==5.3.1
+
+# Data import/export
+openpyxl==3.0.9
